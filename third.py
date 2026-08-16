@@ -1,2 +1,6 @@
-name = input("Enter your name: ")
-print(f"Hello, {name}!")
+name =input("Enter your name: ")
+
+#ask name of user 
+
+print(f"Hello, {name}!")    
+#print name of user
